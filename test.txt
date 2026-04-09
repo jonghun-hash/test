@@ -1,0 +1,8 @@
+total 57
+drwxr-xr-x 1 YUHAN 197121     0 Apr  9 09:13 ./
+drwxr-xr-x 1 YUHAN 197121     0 Apr  2 11:47 ../
+drwxr-xr-x 1 YUHAN 197121     0 Apr  2 11:47 .git/
+-rw-r--r-- 1 YUHAN 197121  7788 Apr  2 11:47 .gitignore
+-rw-r--r-- 1 YUHAN 197121 35823 Apr  2 11:47 LICENSE
+-rw-r--r-- 1 YUHAN 197121    93 Apr  2 11:47 README.md
+-rw-r--r-- 1 YUHAN 197121     0 Apr  9 09:13 test.txt
