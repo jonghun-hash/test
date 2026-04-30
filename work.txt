@@ -1,0 +1,12 @@
+total 42
+-rw-r--r-- 1 YUHAN 197121 35823 Apr 16 10:34 LICENSE
+-rw-r--r-- 1 YUHAN 197121   138 Apr 16 10:34 README.md
+-rw-r--r-- 1 YUHAN 197121    91 Apr 16 11:06 new.txt
+-rw-r--r-- 1 YUHAN 197121   383 Apr 16 10:34 test.txt
+drwxr-xr-x 1 YUHAN 197121     0 Apr 16 10:43 tot.txt/
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 10:44 toto.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 11:11 work.txt
+-rw-r--r-- 1 YUHAN 197121     0 Apr 16 10:54 yo.txt
+-rw-r--r-- 1 YUHAN 197121    31 Apr 16 10:34 yuhan.txt
+-rw-r--r-- 1 YUHAN 197121    32 Apr 16 10:34 yuyu.txt
+-rw-r--r-- 1 YUHAN 197121    32 Apr 16 10:34 yuyuhan.txt
