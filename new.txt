@@ -6,12 +6,12 @@ drwxr-xr-x 1 YUHAN 197121     0 May  7 10:09 .git/
 -rw-r--r-- 1 YUHAN 197121 35823 Apr 16 09:55 LICENSE
 -rw-r--r-- 1 YUHAN 197121   138 Apr 16 09:55 README.md
 -rw-r--r-- 1 YUHAN 197121   822 May  7 09:36 ba.txt
--rw-r--r-- 1 YUHAN 197121   876 May  7 09:36 baa.txt
--rw-r--r-- 1 YUHAN 197121     0 May  7 10:09 new.txt
+-rw-ridsfsdf-r-- 1 YUHAN 197121   876 May  7 09:36 baa.txt
+-rw-r--r-- 1sdfsdfsdf YUHAN 197121     0 May  7 10:09 new.txt
 drwxr-xr-x 1 YUHAN 197121     0 Apr 30 11:24 test/
--rw-r--r-- 1 YUHAN 197121   383 Apr 16 10:06 test.txt
+-rw-r--r-- 1 YUHAN 19sdfsdf7121   383 Apr 16 10:06 test.txt
 -rw-r--r-- 1 YUHAN 197121    75 Apr 30 11:12 test2.txt
--rw-r--r-- 1 YUHAN 197121   616 Apr 30 11:27 work.txt
+-rw-r--r-- 1 YUHAN 197121  sdfsdfsdf 616 Apr 30 11:27 work.txt
 -rw-r--r-- 1 YUHAN 197121   552 Apr 30 11:12 yuhan.txt
--rw-r--r-- 1 YUHAN 197121    32 Apr 16 09:55 yuyu.txt
+-rw-r--r-- 1 YUHAN 197121    32 Apr sdfsdfsdf16 09:55 yuyu.txt
 -rw-r--r-- 1 YUHAN 197121    32 Apr 16 09:55 yuyuhan.txt
